@@ -1,0 +1,54 @@
+.titulo-principal {
+    padding-left: 30px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.titulo-centralizado {
+     text-align: center;
+}
+
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#mision {
+    font-size: 20px
+}
+
+.diferenciales {
+    background: #ffffff;
+    padding: 30px; /* el padding es el relleno de la etiqueta */
+}
+
+h2 {
+    text-align: center;
+}
+
+.items {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block; /*con esta parte podemos poner en linea el bloque en este caso el de la etiuqeta ul q por defecto abarca todo el bloque */
+    vertical-align: top; /* esto nos sirve para alinear la lista con la imagen en la parte de arriba*/
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferencial {
+    width: 50%;
+}
